@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zs9xw8/rH22BXX335x43OPMAiLWbWwkfrYJ9q7E2SQ/Bbt8P//ogspvCQfDUpHo8zAV5E/ssgjAMNSU95FGdSg==",
+  "dgSpecHash": "DpP11Mndea1jV+FUEsUrPQ0TrZPQFIRdAGEz+sJCL09zDySUyVXsyM5aYnpLib5qlLTSsrgQeSdExvb9S9n0Mg==",
   "success": true,
-  "projectFilePath": "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\AzureProjectDB.csproj",
+  "projectFilePath": "D:\\Longnh1_test\\testazure\\AzureProjectDB\\AzureProjectDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longnh1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\longnh1\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

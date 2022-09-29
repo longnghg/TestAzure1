@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\AzureProjectDB.csproj": {}
+    "D:\\Longnh1_test\\testazure\\AzureProjectDB\\AzureProjectDB.csproj": {}
   },
   "projects": {
-    "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\AzureProjectDB.csproj": {
+    "D:\\Longnh1_test\\testazure\\AzureProjectDB\\AzureProjectDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\AzureProjectDB.csproj",
+        "projectUniqueName": "D:\\Longnh1_test\\testazure\\AzureProjectDB\\AzureProjectDB.csproj",
         "projectName": "AzureProjectDB",
-        "projectPath": "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\AzureProjectDB.csproj",
+        "projectPath": "D:\\Longnh1_test\\testazure\\AzureProjectDB\\AzureProjectDB.csproj",
         "packagesPath": "C:\\Users\\longnh1\\.nuget\\packages\\",
-        "outputPath": "D:\\Longnh1_test\\MVCAzureDB\\AzureProjectDB\\AzureProjectDB\\obj\\",
+        "outputPath": "D:\\Longnh1_test\\testazure\\AzureProjectDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\longnh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
